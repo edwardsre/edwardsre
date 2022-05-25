@@ -8,7 +8,7 @@
 ## Softare Development
 
 ![Java](https://img.shields.io/badge/Java-black?logo=Java&style=flat-square)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-black?logo=SpringBoot&style=flat-square)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-black?logo=Spring&style=flat-square)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-black?logo=SpringBoot&style=flat-square)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSql-black?logo=postgresql&style=flat-square)&nbsp;
 ![Redis](https://img.shields.io/badge/Redis-black?logo=Redis&style=flat-square)
