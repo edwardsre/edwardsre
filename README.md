@@ -5,7 +5,7 @@
 💡 &nbsp; I'm a backend software engineer.\
 🎓 &nbsp; I graduated from Utah Valley University (Orem, Utah) with a Bachelor of Science, Computer Science.
 
-## Softare Development
+## Software Development
 
 ![Java](https://img.shields.io/badge/Java-black?logo=Java&style=flat-square)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-black?logo=Spring&style=flat-square)&nbsp;
