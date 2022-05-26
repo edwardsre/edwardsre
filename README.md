@@ -19,7 +19,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-black?&logo=Amazon-AWS&logoColor=F90)&nbsp;
-![Mac OS](https://img.shields.io/badge/Mac%20OS-black?style=flat-square&logo=mac)&nbsp;
+![Mac OS](https://img.shields.io/badge/Mac%20OS-black?style=flat-square&logo=apple)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)&nbsp;
 ![Splunk](https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk)&nbsp;
 
